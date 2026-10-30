@@ -2,6 +2,8 @@
 
 **Mobility Education Video — Working Script v0.1**
 
+> **Production convention:** Scene headings are intended as on-screen title text at the beginning of each scene, unless otherwise noted.
+
 ## Scene 1 — A City in Motion
 
 | VIDEO | AUDIO / NARRATION |
@@ -67,12 +69,14 @@
 
 ## Scene 7 — The Come-Around / Multiple-Threat Crossing
 
+> **On-screen title:** The Come-Around / Multiple-Threat Crossing
+
 | VIDEO | AUDIO / NARRATION |
 |---|---|
-| A pedestrian approaches a crosswalk on a street with two lanes traveling in the same direction. A driver notices them and stops. | There's a particularly dangerous situation that can happen when someone is crossing the street. It's sometimes called *the come-around*, or a *multiple-threat crossing*. |
+| The scene title appears on screen. Then a pedestrian approaches a crosswalk on a street with two lanes traveling in the same direction. A driver notices them and stops. | Let's consider a particularly dangerous situation that happens all the time. It's sometimes called *the come-around*, or a *multiple-threat crossing*. |
 | Another vehicle approaches from behind the stopped car, changes lanes, and starts to pass. Freeze the animation before the pedestrian and passing vehicle meet. | One driver stops for someone crossing. But another driver approaches, doesn't understand why the first car stopped, and tries to go around. |
 | Overhead replay reveals the pedestrian hidden from the second driver's view by the stopped vehicle. | The stopped vehicle can actually hide the person crossing from the approaching driver. And the person crossing may not be able to see that second vehicle, either. |
-| Replay from the approaching driver's perspective. The stopped vehicle comes into view. The driver slows and stops rather than passing. | **When you see a vehicle stopped at a crosswalk, assume someone may be crossing—even if you can't see them. Never pass a vehicle that's stopped to let someone cross.** |
+| Replay from the rearmost approaching driver's perspective. The stopped vehicle comes into view. The driver slows and stops rather than passing. | **When you see a vehicle stopped at a crosswalk, assume someone may be crossing—even if you can't see them. Never pass a vehicle that's stopped to let someone cross.** |
 | Return to the first driver. They stop before the crosswalk, leaving the crossing clear, and wait while the pedestrian crosses. | If you're the driver who stops first, leave the crosswalk clear. Watch for approaching traffic, and give the person crossing time to reach safety. |
 | Pedestrian's-eye view. One vehicle is stopped, but the pedestrian checks the adjacent lane before proceeding. | And if you're walking, remember that one driver stopping doesn't guarantee every driver will stop. Look carefully for traffic in other lanes before continuing. |
 | Final overhead view: both drivers stop, the pedestrian crosses safely, and traffic resumes. | **One driver stopping is only part of the picture. Good drivers recognize why other vehicles have stopped—and help keep the crossing safe.** |
