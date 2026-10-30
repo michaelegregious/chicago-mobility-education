@@ -104,8 +104,25 @@
 
 > **Production notes:** The 30-foot rule is safety guidance from the Washington mobility education material, not an Illinois legal stopping-distance requirement. Confirm how to illustrate it alongside stop lines, signals, and other traffic controls; don't imply stopping 30 feet back guarantees the crossing is safe. Keep the rolling-forward example from the pedestrian's point of view.
 
+
+## Scene 9 — Sharing the Road with Bicycles
+
+| VIDEO | AUDIO / NARRATION |
+|---|---|
+| On-screen title: “Sharing the Road with Bicycles.” Montage of people cycling in Chicago: commuting, taking children to school, riding Divvy bikes, making deliveries, and riding recreationally. | Bicycles are a great way to get around Chicago. And most people who ride bicycles also drive, walk, or take public transit. Like everyone else, people on bicycles have a right to get where they’re going safely. |
+| A cyclist rides along a neighborhood street alongside motor traffic. Simple graphics illustrate the rights and responsibilities shared by drivers and cyclists. | Under Illinois law, people riding bicycles on the road generally have the same rights and responsibilities as drivers. They must obey traffic signals and signs, and drivers must respect their right to use the road. |
+| A cyclist rides toward parked cars. The animation highlights the area where a car door could open. The cyclist moves farther into the travel lane. | Sometimes you’ll see someone riding a bicycle farther from the curb than you might expect. There’s often a good reason. Riding too close to parked cars puts cyclists in danger of being hit by an opening door. |
+| Overhead view: a cyclist moves toward the center of a narrow lane. A car approaches from behind and waits rather than squeezing past. | Cyclists may also need to move farther into a lane to avoid potholes, debris, or other hazards—or because the lane is too narrow for a bicycle and car to travel safely side by side. |
+| Split-screen: one driver squeezes past a cyclist, while another waits for a safe opening and passes with ample room. An overlay illustrates three feet of clearance. | When passing a bicycle, Illinois law generally requires drivers to leave at least **three feet of space**. If there isn’t room to pass safely, wait until there is. |
+| A driver prepares to turn right across a bicycle lane. They signal, check their mirrors and blind spot, notice a cyclist approaching, and wait. | Before turning across a bike lane, check for people riding beside or behind you. Signal your turn, look carefully, and yield when required. Never assume a cyclist can stop instantly or that they’ve seen your signal. |
+| A driver parks along a neighborhood street. Before opening the door, they check their mirror and look over their shoulder. | If you’re getting out of a car, check for people riding bicycles before opening your door. An unexpected opening door can cause a serious crash. |
+| Close-up of a driver opening the door with the hand farthest from it, naturally turning their body to look behind them. | One helpful technique is called the *Dutch Reach*: open your door with your opposite hand. It encourages you to turn and look for approaching cyclists before stepping out. |
+| A cyclist approaches an intersection, signals a turn, and follows the traffic signal. A driver nearby gives them space. | People riding bicycles have responsibilities, too. Signaling intentions, following traffic controls, and riding predictably all help everyone understand what to expect. |
+| A driver follows a cyclist along a narrow neighborhood street, waits briefly, then passes safely when the road opens up. | **Remember: a cyclist taking more space in the lane isn’t necessarily doing something wrong. They may be protecting themselves from a hazard you can’t see. Give them room, give them time, and pass only when it’s safe.** |
+
+> **Production notes:** Verify precise Illinois exceptions and conditions for lane positioning and passing before finalizing legal narration. Consider adding a left-turn lane-positioning example during review.
+
 ## Sections to develop
-- Sharing the Road with Bicycles
 - Courtesy Keeps Chicago Moving
 - Closing
 
